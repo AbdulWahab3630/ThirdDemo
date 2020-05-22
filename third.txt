@@ -2,3 +2,4 @@ Hello
 A.Wahab
 Hello
 Testing merge commit
+Smart git testing
